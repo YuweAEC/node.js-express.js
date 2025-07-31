@@ -2,8 +2,13 @@
   "name": "node-express-js",
   "version": "1.0.0",
   "main": "app.js",
+  "repository": "https://github.com/YuweAEC/node.js-express.js",
+  "author": "Yuvraj Singh",
   "license": "MIT",
   "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
   "dependencies": {
     "add": "^2.0.6",
     "express": "^5.1.0",
